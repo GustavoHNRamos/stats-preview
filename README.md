@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Stats preview card component solution
 
 This is my solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
@@ -20,7 +20,7 @@ This is my solution to the [Stats preview card component challenge on Frontend M
 
 ### Links
 
-- Live Site URL: [GitHub Page]()
+- Live Site URL: [GitHub Page](https://gustavohnramos.github.io/stats-preview/)
 
 ## My process
 
